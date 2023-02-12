@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+header{
+  background-color: #05386B;
+  padding: 10px;
+}
+/* Comma groups the classes (applies the same style to them all), an empty space tells that the following selector must be within the first selector. */
+header h1{
+  color: white;
+  max-width: 1200px;
+  /* background-color: red; */
+  margin: 0 auto;
+}
+.content{
+  width:100%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  height: 91vh;
+  background-color: #F9FEFF;
+
+}
+.articles{
+  width:80%;
+}
+.users{
+  width: 40%;
+  margin-right: 50px;
+  
+  
+}
