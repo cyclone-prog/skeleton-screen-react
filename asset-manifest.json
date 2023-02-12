@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skeleton-screen-react/static/css/main.be14838a.css",
+    "main.js": "/skeleton-screen-react/static/js/main.a0b1020a.js",
+    "index.html": "/skeleton-screen-react/index.html",
+    "main.be14838a.css.map": "/skeleton-screen-react/static/css/main.be14838a.css.map",
+    "main.a0b1020a.js.map": "/skeleton-screen-react/static/js/main.a0b1020a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be14838a.css",
+    "static/js/main.a0b1020a.js"
+  ]
+}
